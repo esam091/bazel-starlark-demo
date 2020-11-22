@@ -1,0 +1,1 @@
+java -cp main-module:library-module com.myapp.Main
